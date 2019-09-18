@@ -182,7 +182,12 @@ public class ESManager {
     }
 	
 	@Test
+
 	public void lisi(){
 		System.out.ptintln("lisi");
+
+	public void zhangsan(){
+		System.out.println(张三");
+
 	}
 }
