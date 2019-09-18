@@ -180,4 +180,9 @@ public class ESManager {
     public void end() throws Exception {
         client.close();
     }
+	
+	@Test
+	public void zhangsan(){
+		System.out.println(张三");
+	}
 }
